@@ -87,7 +87,7 @@ Hi there! I'm Carla, a beginner in the programming world with a strong passion f
    align="left" 
    alt="Python" 
    width="30px"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
    />     
 
  <img 
